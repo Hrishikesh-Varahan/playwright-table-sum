@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "scripts": {
     "scrape": "node scrape_sum.js"
   },
