@@ -1,5 +1,8 @@
 {
-  "type": "module",
-  "scripts": {"scrape": "node scrape_sum.mjs"},
-  "dependencies": {"playwright": "^1.44.0"}
+  "scripts": {
+    "scrape": "node scrape_sum.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
 }
